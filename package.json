@@ -19,6 +19,11 @@
     "connect-redis": "1.4.x",
     "passport-local": "~1.0.0",
     "csprng": "~0.1.1",
-    "nodejs-gravatar": "~1.0.2"
+    "nodejs-gravatar": "~1.0.2",
+    "logfmt": "~1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrsantur/servernode.git"
   }
 }
